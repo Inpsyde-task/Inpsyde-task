@@ -5,7 +5,7 @@
 > We've been through it, and we want to know how you've fared in the same situation.
 [What we are Looking for in Your Code](https://poststatus.com/what-agencies-are-looking-for-in-your-code/)
 
-## 🌱 I’m currently learning lot of stuff about our applications.
+## 🌱 I’m currently learning lot of stuff about your application.
 
 ## 📫 How to reach me ...
 * Look at our [Career page](https://inpsyde.com/en/career/)
